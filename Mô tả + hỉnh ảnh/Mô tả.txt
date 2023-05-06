@@ -1,0 +1,2 @@
+Mô tả:
+Ứng dụng mã nguồn mở tạo mật khẩu an toàn tiện lợi theo yêu cầu  cho người dùng.
